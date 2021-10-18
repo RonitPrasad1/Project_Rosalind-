@@ -1,3 +1,3 @@
 # Project_Rosalind:
 
-Project Rosalind Questions and Solutions in C++.
+Project Rosalind Questions and Solutions in C++ and Python.
