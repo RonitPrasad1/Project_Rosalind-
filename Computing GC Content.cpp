@@ -13,7 +13,7 @@ auto main(int argc, const char* argv[]) -> decltype ( 0 )
        std::cin >> ID;
        std::cin >> DNAString;
        
-       int lengthofDNAStrand = DNAString.size();
+       int64_t lengthofDNAStrand = DNAString.size();
        
        for (int64_t i = 0; i <= lengthofDNAStrand; ++i)
        {
